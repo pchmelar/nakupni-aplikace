@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.moved-aside
+
+# Scraper – pracovní soubory (regenerovatelné přes scrape/scrape.py)
+scrape/pages/
+scrape/img/
+scrape/home.html
+scrape/manifest.json
+scrape/manifest_raw.json
+home.html
+icon-1024.png

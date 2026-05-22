@@ -1,0 +1,226 @@
+[
+  {
+    "id": "kaufland",
+    "name": "Kaufland",
+    "logo": "kaufland_logo.jpg",
+    "card": "kaufland_card.jpg",
+    "url": "https://nakupniaplikace.cz/kaufland.html"
+  },
+  {
+    "id": "albert",
+    "name": "Albert",
+    "logo": "albert_logo.jpg",
+    "card": "albert_card.jpg",
+    "url": "https://nakupniaplikace.cz/albert.php"
+  },
+  {
+    "id": "clubcardtesco",
+    "name": "Tesco Clubcard",
+    "logo": "clubcardtesco_logo.jpg",
+    "card": "clubcardtesco_card.jpg",
+    "url": "https://nakupniaplikace.cz/clubcardtesco.html"
+  },
+  {
+    "id": "lidl",
+    "name": "Lidl Plus",
+    "logo": "lidl_logo.jpg",
+    "card": "lidl_card.jpg",
+    "url": "https://nakupniaplikace.cz/lidl.html"
+  },
+  {
+    "id": "penny",
+    "name": "Penny Market",
+    "logo": "penny_logo.jpg",
+    "card": "penny_card.jpg",
+    "url": "https://nakupniaplikace.cz/penny.html"
+  },
+  {
+    "id": "globus",
+    "name": "Globus",
+    "logo": "globus_logo.jpg",
+    "card": "globus_card.jpg",
+    "url": "https://nakupniaplikace.cz/globus.html"
+  },
+  {
+    "id": "dm",
+    "name": "dm drogerie",
+    "logo": "dm_logo.jpg",
+    "card": "dm_card.jpg",
+    "url": "https://nakupniaplikace.cz/dm.html"
+  },
+  {
+    "id": "teta",
+    "name": "Teta",
+    "logo": "teta_logo.jpg",
+    "card": "teta_card.jpg",
+    "url": "https://nakupniaplikace.cz/teta.html"
+  },
+  {
+    "id": "orlen",
+    "name": "Orlen Benzina",
+    "logo": "orlen_logo.jpg",
+    "card": "orlen_card.jpg",
+    "url": "https://nakupniaplikace.cz/orlen.html"
+  },
+  {
+    "id": "ikea",
+    "name": "IKEA",
+    "logo": "ikea_logo.jpg",
+    "card": "ikea_card.jpg",
+    "url": "https://nakupniaplikace.cz/ikea.html"
+  },
+  {
+    "id": "tescoma",
+    "name": "Tescoma",
+    "logo": "tescoma_logo.jpg",
+    "card": "tescoma_card.jpg",
+    "url": "https://nakupniaplikace.cz/tescoma.html"
+  },
+  {
+    "id": "billa",
+    "name": "Billa",
+    "logo": "billa_logo.jpg",
+    "card": "billa_card.jpg",
+    "url": "https://nakupniaplikace.cz/billa.html"
+  },
+  {
+    "id": "mobelix",
+    "name": "Möbelix",
+    "logo": "mobelix_logo.jpg",
+    "card": "mobelix_card.jpg",
+    "url": "https://nakupniaplikace.cz/mobelix.html"
+  },
+  {
+    "id": "kik",
+    "name": "KiK",
+    "logo": "kik_logo.jpg",
+    "card": "kik_card.jpeg",
+    "url": "https://nakupniaplikace.cz/kik.html"
+  },
+  {
+    "id": "bambule",
+    "name": "Bambule",
+    "logo": "bambule_logo.jpg",
+    "card": "bambule_card.jpg",
+    "url": "https://nakupniaplikace.cz/bambule.html"
+  },
+  {
+    "id": "benu",
+    "name": "BENU Lékárna",
+    "logo": "benu_logo.jpg",
+    "card": "benu_card.jpg",
+    "url": "https://nakupniaplikace.cz/benu.html"
+  },
+  {
+    "id": "drmax",
+    "name": "Dr. Max",
+    "logo": "drmax_logo.jpg",
+    "card": "drmax_card.jpg",
+    "url": "https://nakupniaplikace.cz/drmax.html"
+  },
+  {
+    "id": "action",
+    "name": "Action",
+    "logo": "action_logo.jpg",
+    "card": "action_card.jpg",
+    "url": "https://nakupniaplikace.cz/action.html"
+  },
+  {
+    "id": "terranova",
+    "name": "Terranova",
+    "logo": "terranova_logo.jpg",
+    "card": "terranova_card.jpg",
+    "url": "https://nakupniaplikace.cz/Terranova.html"
+  },
+  {
+    "id": "rossmann",
+    "name": "Rossmann",
+    "logo": "rossmann_logo.jpg",
+    "card": "rossmann_card.jpg",
+    "url": "https://nakupniaplikace.cz/rossmann.html"
+  },
+  {
+    "id": "mol",
+    "name": "MOL",
+    "logo": "mol_logo.jpg",
+    "card": "mol_card.jpg",
+    "url": "https://nakupniaplikace.cz/mol.html"
+  },
+  {
+    "id": "tchibo",
+    "name": "Tchibo",
+    "logo": "tchibo_logo.jpg",
+    "card": "tchibo_card.jpg",
+    "url": "https://nakupniaplikace.cz/tchibo.html"
+  },
+  {
+    "id": "coop",
+    "name": "COOP",
+    "logo": "coop_logo.jpg",
+    "card": "coop_card.jpg",
+    "url": "https://nakupniaplikace.cz/coop.html"
+  },
+  {
+    "id": "pompo",
+    "name": "Pompo",
+    "logo": "pompo_logo.jpg",
+    "card": "pompo_card.jpg",
+    "url": "https://nakupniaplikace.cz/pompo.html"
+  },
+  {
+    "id": "decathlon",
+    "name": "Decathlon",
+    "logo": "decathlon_logo.jpg",
+    "card": "decathlon_card.jpg",
+    "url": "https://nakupniaplikace.cz/decathlon.html"
+  },
+  {
+    "id": "obi",
+    "name": "OBI",
+    "logo": "obi_logo.jpg",
+    "card": "obi_card.jpg",
+    "url": "https://nakupniaplikace.cz/obi.html"
+  },
+  {
+    "id": "jip",
+    "name": "JIP",
+    "logo": "jip_logo.jpg",
+    "card": "jip_card.jpg",
+    "url": "https://nakupniaplikace.cz/jip.html"
+  },
+  {
+    "id": "canda",
+    "name": "C&A",
+    "logo": "canda_logo.jpg",
+    "card": "canda_card.jpg",
+    "url": "https://nakupniaplikace.cz/canda.html"
+  },
+  {
+    "id": "luxor",
+    "name": "Luxor",
+    "logo": "luxor_logo.jpg",
+    "card": "luxor_card.jpg",
+    "url": "https://nakupniaplikace.cz/luxor.html"
+  },
+  {
+    "id": "sparkys",
+    "name": "Sparkys",
+    "logo": "sparkys_logo.jpg",
+    "card": "sparkys_card.jpg",
+    "url": "https://nakupniaplikace.cz/sparkys.html"
+  },
+  {
+    "id": "baumaxcz",
+    "name": "bauMax",
+    "logo": "baumaxcz_logo.jpg",
+    "card": "baumaxcz_card.jpeg",
+    "url": "https://nakupniaplikace.cz/baumaxcz.html"
+  },
+  {
+    "id": "superzoo",
+    "name": "Super zoo",
+    "logo": "superzoo_logo.jpg",
+    "card": "superzoo_card.jpeg",
+    "url": "https://nakupniaplikace.cz/superzoo.html"
+  }
+]
