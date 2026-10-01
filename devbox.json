@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.17.3/.schema/devbox.schema.json",
+  "packages": [],
+  "nixpkgs": {
+    "commit": "68e5b9f7e82a76a5171d10b5d316e0ae5e1df6e9"
+  },
+  "shell": {
+    "init_hook": [
+      "export DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer",
+      "unset SDKROOT MACOSX_DEPLOYMENT_TARGET CC CXX LD AR NM RANLIB STRIP SIZE STRINGS OBJCOPY OBJDUMP NIX_CC NIX_BINTOOLS NIX_CFLAGS_COMPILE NIX_LDFLAGS NIX_HARDENING_ENABLE NIX_ENFORCE_NO_NATIVE NIX_IGNORE_LD_THROUGH_GCC NIX_DONT_SET_RPATH NIX_DONT_SET_RPATH_FOR_BUILD NIX_NO_SELF_RPATH NIX_APPLE_SDK_VERSION",
+      "[ -f .env ] && set -a && . ./.env && set +a || true",
+      "echo '📦 Nákupní karty dev shell ready.'"
+    ]
+  }
+}

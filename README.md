@@ -54,3 +54,8 @@ Skript znovu stáhne loga i karty všech obchodů do
 ## Data
 
 Loga a obrázky věrnostních karet pocházejí z [nakupniaplikace.cz](https://nakupniaplikace.cz/).
+
+---
+
+*Built from [claude-project-template](TEMPLATE.md) — setup, agent-autonomy
+policy, and conventions live in `TEMPLATE.md`.*

@@ -1,0 +1,9 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "github:NixOS/nixpkgs/68e5b9f7e82a76a5171d10b5d316e0ae5e1df6e9": {
+      "last_modified": "1970-01-01T00:00:00Z",
+      "resolved": "github:NixOS/nixpkgs/68e5b9f7e82a76a5171d10b5d316e0ae5e1df6e9"
+    }
+  }
+}

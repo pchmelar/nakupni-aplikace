@@ -1,3 +1,14 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+
+# Devbox — declarations in git, artifacts out of git
+.devbox/
+
+# Overlay mode — the nested target repo
+repo/
+
 # macOS
 .DS_Store
 
@@ -9,7 +20,7 @@ xcuserdata/
 *.xcscmblueprint
 *.moved-aside
 
-# Scraper – pracovní soubory (regenerovatelné přes scrape/scrape.py)
+# Scraper working files (regenerable via scrape/scrape.py)
 scrape/pages/
 scrape/img/
 scrape/home.html
@@ -17,3 +28,6 @@ scrape/manifest.json
 scrape/manifest_raw.json
 home.html
 icon-1024.png
+
+# Python venv (created by the devbox python plugin)
+.venv/

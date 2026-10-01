@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Read(//private/tmp/claude-503/**)",
+      "Read(//tmp/claude-503/**)"
+    ],
+    "deny": [
+      "Read(//**/.env)"
+    ],
+    "ask": [
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(git push * --force*)",
+      "Bash(git push * -f*)"
+    ]
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "[ -n \"$CLAUDE_ENV_FILE\" ] && printf 'eval \"$(devbox shellenv --init-hook --config %q)\" >/dev/null\\nexport DEVBOX_SHELL_ENABLED=1\\n' \"$CLAUDE_PROJECT_DIR\" >> \"$CLAUDE_ENV_FILE\""
+          }
+        ]
+      }
+    ]
+  }
+}
